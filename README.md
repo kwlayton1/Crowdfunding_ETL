@@ -11,12 +11,19 @@ Create the Crowdfunding Database
 
 https://www.regextester.com/96872
 https://stackoverflow.com/questions/1454913/regular-expression-to-find-a-string-included-between-two-characters-while-exclud
+
 https://www.pauldesalvo.com/how-to-extract-all-numbers-from-a-string-column-in-python-pandas/
+
 https://stackoverflow.com/questions/69935149/how-to-extract-part-of-a-string-in-pandas-column-and-make-a-new-column
+
 https://dataindependent.com/pandas/pandas-iterate-over-rows-5-methods/
+
 https://www.w3resource.com/numpy/string-operations/add.php
+
 https://stackoverflow.com/questions/37333299/splitting-a-pandas-dataframe-column-by-delimiter
+
 https://sparkbyexamples.com/pandas/pandas-split-column/
+
 https://www.statology.org/pandas-unique-values-in-column/
 
 

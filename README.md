@@ -1,11 +1,12 @@
 # Crowdfunding_ETL
-Project #2
+Project #2  
+The Jupyter Notebook file ETL_Mini_Project_KLayton_JEng_Final outputs were used for the final Database creation.
+
 The instructions for this mini project are divided into the following subsections:
 Create the Category and Subcategory DataFrames
 Create the Campaign DataFrame
 Create the Contacts DataFrame
 Create the Crowdfunding Database
-
 
 #Resources used for code support:
 
